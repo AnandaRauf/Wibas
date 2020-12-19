@@ -8,6 +8,7 @@ Developed date : 25 November 2020.
 Required : 
 - Python min version 3.7, max new version, download here : https://www.python.org/downloads\
 - IDE Visual Studio : https://www.visualstudio.microsoft.com/downloads
+- Install library (pip install) : flask,kivy,jinja2,and pyttsx3
 
 For contribute : 
 
